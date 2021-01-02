@@ -4,6 +4,8 @@
 ```
 npm install
 ```
+site deployed on https://angry-almeida-cad184.netlify.app/#/
+```
 
 ### Compiles and hot-reloads for development
 ```
